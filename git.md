@@ -20,3 +20,9 @@ tag u\
 4. ц\
 # MAIN COMMANDS
 git init
+git status
+git add
+git pull
+git branch
+.gitignore
+git remote set-url origin git@github.ibm.com:WBurney/Blockchain_SDO.git
