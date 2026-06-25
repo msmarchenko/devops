@@ -29,3 +29,7 @@ git remote set-url origin git@github.ibm.com:WBurney/Blockchain_SDO.git
 git checkout
 git push --set-upstream origin test
 git branch test
+git merge test2 - подтягиваем ветку в текущую
+git push origin --delete test
+git rebase
+
