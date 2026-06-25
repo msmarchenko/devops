@@ -26,3 +26,6 @@ git pull
 git branch
 .gitignore
 git remote set-url origin git@github.ibm.com:WBurney/Blockchain_SDO.git
+git checkout
+git push --set-upstream origin test
+git branch test
